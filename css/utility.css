@@ -1,0 +1,52 @@
+.border{
+    border: 2px solid red;
+}
+img, h1, h2, h3, h4, h5, h6, p, div{
+    cursor: default;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+.hidden{
+    display: none;
+}
+span{
+    display: flex;
+    width: 100px;
+    flex-direction: row;
+}
+/* Card icon Background */
+.blue_background{
+    background-color: rgb(255, 45, 89);
+}
+.green_background{
+    background-color: rgb(74, 219, 97);
+}
+.yellow_background{
+    background-color: rgb(255, 204, 0);
+}
+.sky_background{
+    background-color: rgb(0, 123, 255);
+}
+.orange_background{
+    background-color: rgb(255, 104, 0);
+}
+.m40{
+    margin: 40px;
+}
+.mt{
+    margin-top: 7pc;
+}
+.btn2{
+    box-shadow: none;
+    border-radius: 10px;
+    width: 13pc;
+    background-color: #5858ff;
+}
+.div{
+    padding: 10px 0px;
+}
+.div a{
+    color: whitesmoke;
+}
